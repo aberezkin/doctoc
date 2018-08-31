@@ -9,8 +9,8 @@ by github or other sites via a command line flag.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [Installation](#installation)
-- [Usage](#usage)
+- [Установка](#%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0)
+- [Использование](#%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5)
   - [Adding toc to all files in a directory and sub directories](#adding-toc-to-all-files-in-a-directory-and-sub-directories)
   - [Update existing doctoc TOCs effortlessly](#update-existing-doctoc-tocs-effortlessly)
   - [Adding toc to individual files](#adding-toc-to-individual-files)
@@ -26,11 +26,11 @@ by github or other sites via a command line flag.
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 
-## Installation
+## Установка
 
     npm install -g doctoc
 
-## Usage
+## Использование
 
 In its simplest usage, you can pass one or more files or folders to the
 `doctoc` command. This will update the TOCs of each file specified as well as of
